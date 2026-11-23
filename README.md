@@ -1,5 +1,5 @@
 <img width="1366" height="768" alt="WhatsApp Image 2026-07-28 at 6 11 22 PM" src="https://github.com/user-attachments/assets/5981d606-5ebf-47da-adbd-ad73120bebca" />
-
+https://public.tableau.com/app/profile/nada.nabeeh/viz/HotelBookingAnalysis_17851387958340/Dashboard1
 This Tableau dashboard provides a comprehensive analysis of hotel booking operations across multiple branches from April to June. The project focuses on monitoring booking performance, analyzing customer preferences, and evaluating booking trends to support better operational decisions and improve hotel performance.
 
 ## Key Dimensions & Features
