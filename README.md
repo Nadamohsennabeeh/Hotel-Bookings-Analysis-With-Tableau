@@ -19,13 +19,3 @@ This Tableau dashboard provides a comprehensive analysis of hotel booking operat
 **Booking Method Analysis:** A comparison of booking methods across hotel branches to identify the most frequently used channels and understand booking patterns at each location.
 
 **Interactive Filters:** Integrated dynamic filters for Hotel Branch, Payment Method, and Purpose of Visit to allow users to explore the data and analyze specific booking segments.
-
-## Technical Implementation
-
-**Data Preparation:** Organized and prepared the hotel booking data to ensure consistent values and accurate analysis across booking dates, branches, booking statuses, and other relevant dimensions.
-
-**Data Visualization:** Developed interactive charts, including bar charts, pie charts, a line chart, and a highlight table to present booking performance and operational trends clearly.
-
-**Calculated Fields:** Used calculated fields to support key performance indicators and booking-related metrics, including cancellation rate and median price per night.
-
-**Dashboard Design:** Designed a centralized dashboard combining KPI cards, interactive filters, and multiple visualizations to provide a clear overview of hotel operations and support data-driven decision-making.
