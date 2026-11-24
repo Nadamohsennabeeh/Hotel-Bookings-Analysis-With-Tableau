@@ -23,13 +23,3 @@ This Tableau dashboard analyzes hotel booking performance from April to June. It
 **Booking Method Analysis:** Compares booking methods across hotel branches to understand customer booking preferences.
 
 **Interactive Filters:** Includes filters for Hotel Branch, Payment Method, and Purpose of Visit.
-
-## Technical Implementation
-
-**Data Preparation:** Prepared and organized the hotel booking data for analysis.
-
-**Data Visualization:** Used bar charts, pie charts, a line chart, and a highlight table to present booking performance.
-
-**Calculated Fields:** Created calculations to support key booking metrics.
-
-**Dashboard Design:** Combined KPI cards, charts, and interactive filters into one dashboard to provide a clear overview of hotel operations.
