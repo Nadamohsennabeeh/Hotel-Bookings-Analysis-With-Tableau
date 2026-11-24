@@ -1,22 +1,35 @@
 <img width="1366" height="768" alt="WhatsApp Image 2026-07-28 at 6 11 22 PM" src="https://github.com/user-attachments/assets/5981d606-5ebf-47da-adbd-ad73120bebca" />
-https://public.tableau.com/app/profile/nada.nabeeh/viz/HotelBookingAnalysis_17851387958340/Dashboard1
-This Tableau dashboard provides a comprehensive analysis of hotel booking operations across multiple branches from April to June. The project focuses on monitoring booking performance, analyzing customer preferences, and evaluating booking trends to support better operational decisions and improve hotel performance.
 
- 
-**Key Dimensions & Features** :
+# Hotel Operations Performance Analysis | Tableau
 
-**Performance KPI Cards:** A snapshot of key booking metrics, including Total Bookings, Cancellation Rate, Total Booking Value, and Median Price Per Night.
+Find the live interactive version here: https://public.tableau.com/app/profile/nada.nabeeh/viz/HotelBookingAnalysis_17851387958340/Dashboard1
 
-**Branch Performance:** A comparative analysis of bookings across hotel branches to identify the highest-performing locations and understand differences in booking volume.
+This Tableau dashboard analyzes hotel booking performance from April to June. It shows booking trends, cancellation rates, booking value, and customer preferences across different hotel branches.
 
-**Booking Status Analysis:** Insights into booking distribution by status, including Confirmed, Completed, and Cancelled, to evaluate booking outcomes and cancellation patterns.
+## Key Dimensions & Features
 
-**Customer Preferences:** Analysis of bookings by Purpose of Visit (Business, Leisure, Honeymoon, and Conference) to understand customer needs and travel preferences.
+**Performance KPI Cards:** Shows Total Bookings, Cancellation Rate, Total Booking Value, and Median Price Per Night.
 
-**Room Type Analysis:** A breakdown of bookings by Room Type (Standard, Deluxe, Suite, and Executive) to identify the most popular accommodation categories.
+**Branch Performance:** Compares bookings across hotel branches to identify the busiest locations.
 
-**Temporal Analysis:** Tracking monthly booking growth from April to June to monitor changes in booking volume and identify booking trends over time.
+**Booking Status Analysis:** Shows Confirmed, Completed, and Cancelled bookings.
 
-**Booking Method Analysis:** A comparison of booking methods across hotel branches to identify the most frequently used channels and understand booking patterns at each location.
+**Purpose of Visit:** Analyzes bookings by Business, Leisure, Honeymoon, and Conference.
 
-**Interactive Filters:** Integrated dynamic filters for Hotel Branch, Payment Method, and Purpose of Visit to allow users to explore the data and analyze specific booking segments.
+**Room Type Analysis:** Compares bookings across Standard, Deluxe, Suite, and Executive rooms.
+
+**Monthly Booking Growth:** Tracks booking volume from April to June.
+
+**Booking Method Analysis:** Compares booking methods across hotel branches to understand customer booking preferences.
+
+**Interactive Filters:** Includes filters for Hotel Branch, Payment Method, and Purpose of Visit.
+
+## Technical Implementation
+
+**Data Preparation:** Prepared and organized the hotel booking data for analysis.
+
+**Data Visualization:** Used bar charts, pie charts, a line chart, and a highlight table to present booking performance.
+
+**Calculated Fields:** Created calculations to support key booking metrics.
+
+**Dashboard Design:** Combined KPI cards, charts, and interactive filters into one dashboard to provide a clear overview of hotel operations.
