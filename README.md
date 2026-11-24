@@ -3,7 +3,7 @@ https://public.tableau.com/app/profile/nada.nabeeh/viz/HotelBookingAnalysis_1785
 This Tableau dashboard provides a comprehensive analysis of hotel booking operations across multiple branches from April to June. The project focuses on monitoring booking performance, analyzing customer preferences, and evaluating booking trends to support better operational decisions and improve hotel performance.
 
 
-Key Dimensions & Features
+##Key Dimensions & Features
 
 **Performance KPI Cards:** A snapshot of key booking metrics, including Total Bookings, Cancellation Rate, Total Booking Value, and Median Price Per Night.
 
